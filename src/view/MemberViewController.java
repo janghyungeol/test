@@ -75,7 +75,7 @@ public class MemberViewController implements Initializable {
 	}
 	@FXML
 	private void handleMessageBox() {
-		this.showAlert("메시지 박스가 나타납니다");
+		this.showAlert("메시지 박스가 나타납니다.");
 	}
 	
 	String str = ""; // 인스턴스 변수 - 객체 변수, 객체가 존재하는 동안 메모리에 존재
